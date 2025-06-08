@@ -70,9 +70,9 @@ local library = {
     open = false;
     opening = false;
     hasInit = false;
-    cheatname = startupArgs.cheatname or 'octohook';
-    gamename = startupArgs.gamename or 'universal';
-    fileext = startupArgs.fileext or '.txt';
+    cheatname = startupArgs.cheatname or 'nevermiss';
+	    gamename = startupArgs.gamename or 'universal';
+    fileext = startupArgs.fileext or '.cfg';
 }
 
 library.themes = {
